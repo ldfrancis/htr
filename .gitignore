@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project outputs: keep only the evaluation summary
+data/
+output/*
+!output/evaluation.csv
