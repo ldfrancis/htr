@@ -1,0 +1,13 @@
+model,dataset,split,num_lines,num_beams,normalization,cer,wer
+microsoft/trocr-base-handwritten,Teklia/IAM-line,test,2915,1,none,0.0472,0.1163
+microsoft/trocr-base-handwritten,Teklia/IAM-line,test,2915,1,contractions,0.0465,0.1093
+microsoft/trocr-base-handwritten,Teklia/IAM-line,test,2915,10,none,0.0444,0.1111
+microsoft/trocr-base-handwritten,Teklia/IAM-line,test,2915,10,contractions,0.0436,0.1040
+microsoft/trocr-base-handwritten,changheonkim/iam-trocr,test,2915,1,none,0.0356,0.0895
+microsoft/trocr-base-handwritten,changheonkim/iam-trocr,test,2915,1,contractions,0.0356,0.0895
+microsoft/trocr-base-handwritten,changheonkim/iam-trocr,test,2915,10,none,0.0341,0.0857
+microsoft/trocr-base-handwritten,changheonkim/iam-trocr,test,2915,10,contractions,0.0341,0.0857
+microsoft/trocr-base-handwritten,IAM (local),test,2915,1,none,0.0511,0.1242
+microsoft/trocr-base-handwritten,IAM (local),test,2915,1,contractions,0.0503,0.1171
+microsoft/trocr-base-handwritten,IAM (local),test,2915,10,none,0.0486,0.1187
+microsoft/trocr-base-handwritten,IAM (local),test,2915,10,contractions,0.0478,0.1115
